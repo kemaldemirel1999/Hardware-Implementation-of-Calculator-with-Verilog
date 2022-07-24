@@ -1,0 +1,19 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  "/opt/Xilinx/NewFolder/Vivado/2016.2/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv" --include "../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1"
+sv xil_defaultlib  "/opt/Xilinx/NewFolder/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_base.sv" --include "../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1"
+sv xil_defaultlib  "/opt/Xilinx/NewFolder/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_dpdistram.sv" --include "../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1"
+sv xil_defaultlib  "/opt/Xilinx/NewFolder/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_dprom.sv" --include "../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1"
+sv xil_defaultlib  "/opt/Xilinx/NewFolder/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_sdpram.sv" --include "../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1"
+sv xil_defaultlib  "/opt/Xilinx/NewFolder/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_spram.sv" --include "../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1"
+sv xil_defaultlib  "/opt/Xilinx/NewFolder/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_sprom.sv" --include "../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1"
+sv xil_defaultlib  "/opt/Xilinx/NewFolder/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_tdpram.sv" --include "../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1"
+verilog xil_defaultlib  "../../../hesap_makinesi_wrapper.srcs/sources_1/ip/clk_wiz/clk_wiz_clk_wiz.v" --include "../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1"
+verilog xil_defaultlib  "../../../hesap_makinesi_wrapper.srcs/sources_1/ip/clk_wiz/clk_wiz.v" --include "../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1"
+verilog xil_defaultlib  "../../../hesap_makinesi_wrapper.srcs/sources_1/new/hesap_makinesi.v" --include "../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1"
+verilog xil_defaultlib  "../../../hesap_makinesi_wrapper.srcs/sources_1/new/hm_wrapper.v" --include "../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

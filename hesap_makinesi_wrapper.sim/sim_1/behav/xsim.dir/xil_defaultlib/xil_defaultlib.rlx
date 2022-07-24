@@ -1,0 +1,15 @@
+0.4
+2016.2
+/home/yahya/Downloads/hesap_mak_cevreleyici_proje/hesap_makinesi_wrapper/hesap_makinesi_wrapper.sim/sim_1/behav/glbl.v,1464879896,verilog,,,,,,,,,,,
+/home/yahya/Downloads/hesap_mak_cevreleyici_proje/hesap_makinesi_wrapper/hesap_makinesi_wrapper.srcs/sources_1/ip/clk_wiz/clk_wiz.v,1604181671,verilog,,,,,,../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1,,,,,
+/home/yahya/Downloads/hesap_mak_cevreleyici_proje/hesap_makinesi_wrapper/hesap_makinesi_wrapper.srcs/sources_1/ip/clk_wiz/clk_wiz_clk_wiz.v,1604181671,verilog,,,,,,../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1,,,,,
+/home/yahya/Downloads/hesap_mak_cevreleyici_proje/hesap_makinesi_wrapper/hesap_makinesi_wrapper.srcs/sources_1/new/hesap_makinesi.v,1604173786,verilog,,,,,,../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1,,,,,
+/home/yahya/Downloads/hesap_mak_cevreleyici_proje/hesap_makinesi_wrapper/hesap_makinesi_wrapper.srcs/sources_1/new/hm_wrapper.v,1604179580,verilog,,,,,,../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1,,,,,
+/opt/Xilinx/NewFolder/Vivado/2016.2/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv,1465086321,verilog,,,,,,../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1,,,,,
+/opt/Xilinx/NewFolder/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_base.sv,1465086321,verilog,,,,,,../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1,,,,,
+/opt/Xilinx/NewFolder/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_dpdistram.sv,1465086322,verilog,,,,,,../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1,,,,,
+/opt/Xilinx/NewFolder/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_dprom.sv,1465086322,verilog,,,,,,../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1,,,,,
+/opt/Xilinx/NewFolder/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_sdpram.sv,1465086322,verilog,,,,,,../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1,,,,,
+/opt/Xilinx/NewFolder/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_spram.sv,1465086322,verilog,,,,,,../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1,,,,,
+/opt/Xilinx/NewFolder/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_sprom.sv,1465086322,verilog,,,,,,../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1,,,,,
+/opt/Xilinx/NewFolder/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_tdpram.sv,1465086322,verilog,,,,,,../../../hesap_makinesi_wrapper.ip_user_files/ipstatic/clk_wiz_v5_3_1,,,,,
